@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Worksmart**
 
-- 🌱 I’m currently learning **MSSQL , Microsoft Azure , Asp.net , .Net core , React JS learning , Redux**
+- 🌱 I’m currently learning **MSSQL , Microsoft Azure , Asp.net , .Net core , React JS , Redux, React Hooks**
 
-- 💬 Ask me about **Azure ,Asp.net , MVC in .Net Core , MSSQL**
+- 💬 Ask me about **Azure ,Asp.net , MVC in .Net Core , MSSQL , React JS, Redux**
 
 - 📫 How to reach me **mihirkoshti.prydan@gmail.com**
 
